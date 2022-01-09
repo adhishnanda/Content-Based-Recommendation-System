@@ -11,4 +11,4 @@ The model should recommend items relevant to this user. To do so, you must first
 # About the Dataset
 GroupLens Research has collected and made available rating data sets from the MovieLens web site (https://movielens.org). The data sets were collected over various periods of time, depending on the size of the set. Before using these data sets, please review their README files for the usage licenses and other details.
 
-MovieLens 25M movie ratings. Stable benchmark dataset. 25 million ratings and one million tag applications applied to 62,000 movies by 162,000 users. Includes tag genome data with 15 million relevance scores across 1,129 tags.  https://grouplens.org/datasets/movielens/25m/
+MovieLens 25M movie ratings. Stable benchmark dataset. 25 million ratings and one million tag applications applied to 62,000 movies by 162,000 users. Includes tag genome data with 15 million relevance scores across 1,129 tags. Dataset can be downloaded from https://grouplens.org/datasets/movielens/25m/
